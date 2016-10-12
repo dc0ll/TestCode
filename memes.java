@@ -1,4 +1,5 @@
-public class memefiend
+public class memefiend extends meme {
 for(int i = 0; i < 69; i++) {
 	System.out.println("meme);
 }
+			   }
